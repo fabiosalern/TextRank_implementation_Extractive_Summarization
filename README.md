@@ -2,7 +2,7 @@
 
 In this repo you will find the code used to implement the TextRank algorithm:
 ![TextRank_scheme](TextRank_scheme.png)
-- This code is related to my Medium post LINK 
+- This code is related to my Medium post [LINK]([url](https://medium.com/@fabiosalern/decomposing-the-textrank-algorithm-to-grasp-the-main-idea-behind-it-code-implementation-b29414eba821)) 
 - Where step by step I exploit the code implementation to give a better understanding of the Text Rank algorithm.
 - My goal is trying to give a better understanding of extractive summarization techniques through a code implementation. Already exists several libraries where the Text Rank algorithm is already implemented (like `sumy`). However the aim of this repo is just making deep dive on the implementation for gaining deeper understanding of what this kind of algorithms do under the hood.
 
